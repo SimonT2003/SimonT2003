@@ -9,7 +9,7 @@
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="35" height="35"> <img src="https://github.com/SimonT2003/SimonT2003/assets/105665224/d0e4d573-ac62-4125-bf8f-84d6da2e8429" alt="MATLAB Logo" width="35" height="35"> <img src="https://github.com/SimonT2003/SimonT2003/assets/105665224/8ecb2fb9-4a90-4e6d-8d6b-ab8542c1ebb2" alt="Excel Logo" width="40" height="35"> <img src="https://github.com/SimonT2003/SimonT2003/assets/105665224/a94d9d54-15b7-4e02-8653-65cc3aa510a5" alt="Java Logo" width="35" height="35">
 
 * I'm proficient in R, MATLAB, and Excel.
-* I am working on getting rid of my rust on Java and enhancing my knowledge of the language.
+* I am working on getting rid of my rust in Java and enhancing my knowledge of the language.
 * I am also learning Python as well since Python is an important language in the data science field, and I want to be able to use it effectively in my future projects.
 * Soon, I will learn how to use SAS and then other useful tools like SQL, Tableau, or Power BI, etc.
 
