@@ -14,4 +14,10 @@
 * Soon, I will learn how to use SAS and then other useful tools like SQL, Tableau, or Power BI, etc.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonT2003&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonT2003&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SimonT2003&theme=algolia)](https://github.com/SimonT2003/github-readme-stats)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=SimonT2003.SimonT2003)
+[![Github](https://img.shields.io/github/followers/SimonT2003?label=Follow&style=social)](https://github.com/SimonT2003)
+
+
