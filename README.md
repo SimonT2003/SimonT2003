@@ -1,6 +1,5 @@
 ### Greetings, my name is Simon Tran! 👋
 * 🔭 I'm currently an applied mathematics student with a minor in statistics at Arizona State University.
-* 🌱 I’m currently doing data science projects to improve my skills and understanding.
 * 📫 You can reach me on LinkedIn or email: simontran2003@yahoo.com
 
 
